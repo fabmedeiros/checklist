@@ -1,0 +1,103 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="revistas.css" type="text/css">
+        <script src="revistas.json"></script>
+        <script>
+            function select_colecao(colecao) {
+                for(i = 0; i < hqs.length; i++) {
+                    if(hqs[i]['titulo'] == colecao) {
+                        revistas = hqs[i].edicoes;
+                    }
+                }
+                show_revistas(revistas);
+                revistas = null;
+            }
+            
+            function show_revistas(revistas) {
+                var comprada = '';
+                for(i = 0; i < revistas.length; i++) {
+                    if(!revistas[i].comprada){
+                        comprada = 'class="lancadas"';
+                    }
+                    else {
+                        comprada = '';
+                    }
+                    document.write('<img title="' + revistas[i].titulo + '" src="' + revistas[i].imagem + '" '+ comprada + '"> ');
+                }
+            }
+        </script>
+    </head>
+	<body>
+        <!--
+        <p><b>Star Wars</b></p>
+        <script>
+            select_colecao('starwars');
+		</script>
+
+        <p><b>Batman</b></p>
+        <script>
+            select_colecao('batman');
+        </script>
+        -->
+        <p><b>Salvat Graphic Novels</b></p>
+        <script>
+            select_colecao('graphicnovels');
+		</script>
+
+        <p><b>Salvat Herois</b></p>
+        <script>
+            select_colecao('herois');
+        </script>
+        
+        <p><b>Salvat Homem-Aranha</b></p>
+        <script>
+            select_colecao('homemaranha');
+		</script>
+        
+        <p><b>DC Eaglemoss</b></p>
+        <script>
+            select_colecao('dc');
+		</script>
+
+        <p><b>Eaglemoss DC Comics - A Lenda do Batman</b></p>
+        <script>
+            select_colecao('eagle-batman');
+		</script>
+        
+        <p><b>Vagabond</b></p>
+        <script>
+            select_colecao('vagabond');
+		</script>
+
+        <p><b>Lobo Solitário</b></p>
+        <script>
+            select_colecao('lobosolitario');
+		</script>
+
+        <p><b>Novo Lobo Solitário</b></p>
+        <script>
+            select_colecao('novolobo');
+		</script>
+
+        <p><b>Valiant</b></p>
+        <script>
+            select_colecao('valiant');
+		</script>
+
+        <p><b>panini</b></p>
+        <script>
+            select_colecao('panini');
+		</script>
+
+	   <p><b>The Walking Dead</b></p>
+        <script>
+            select_colecao('thewalkingdead');
+		</script>
+
+        <p><b>A Espada Selvagem de Conan</b></p>
+        <script>
+            select_colecao('conan');
+		</script>
+	</body>
+</html>
