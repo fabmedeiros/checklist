@@ -1,0 +1,580 @@
+*****STARWARS*****
+sw01 - Clássicos 1
+sw02 - Clássicos 2
+sw03 - Clássicos 3
+sw04 - Clássicos 4
+sw05 - Clássicos 5
+sw06 - Clássicos 6
+sw07 - Clássicos 7
+sw08 - Clássicos 8
+sw09 - Clássicos 9
+sw10 - Clássicos 10
+sw11 - Clássicos 11
+sw12 - Clássicos 12
+sw13 - Cavaleiros da Antiga República 1
+sw14 - Cavaleiros da Antiga República 2
+sw15 - Cavaleiros da Antiga República 3
+sw16 - Cavaleiros da Antiga República 4
+sw17 - Cavaleiros da Antiga República 5
+sw18 - Cavaleiros da Antiga República 6
+sw19 - Guerra Iminente
+sw20 - Guerras Clônicas 1
+sw21 - Guerras Clônicas 2
+sw22 - Guerras Clônicas 3
+sw23 - Guerras Clônicas 4
+sw24 - Guerras Clônicas 5
+sw25 - Guerras Clônicas 6
+sw26 - Guerras Clônicas 7
+sw27 - Tempos Sombrios 1
+sw28 - Tempos Sombrios 2
+sw29 - Tempos Sombrios 3
+sw30 - Tempos Sombrios 4
+sw31 - O Poder da Força
+sw32 - Império 1
+sw33 - Império 2
+sw34 - Império 3
+sw35 - Império 4
+sw36 - Império 5
+sw37 - Rebelião 1
+sw38 - Rebelião 2
+sw39 - Sombras do Império
+sw40 - Herdeiro do Império 1
+sw41 - Herdeiro do Império 2
+sw42 - Império Negro 1
+sw43 - Império Negro 2
+sw44 - Império Vermelho 1
+sw45 - Império Vermelho 2
+sw46 - Academia Jedi
+sw47 - Invasão 1
+sw48 - Invasão 2
+sw49 - Legado 1
+sw50 - Legado 2
+sw51 - Legado 3
+sw52 - Legado 4
+sw53 - Legado 5
+sw54 - Legado 6
+sw55 - X-Wing:Esquadrão Rebelde 1
+sw56 - X-Wing:Esquadrão Rebelde 2
+sw57 - X-Wing:Esquadrão Rebelde 3
+sw58 - X-Wing:Esquadrão Rebelde 4
+sw59 - X-Wing:Esquadrão Rebelde 5
+sw60 - Boba Fett 1
+sw61 - Boba Fett 2
+sw62 - Boba Fett 3
+sw63 - Ascensão dos Sith 1
+sw64 - Ascensão dos Sith 2
+sw65 - Droides 1
+sw66 - Droides 2
+sw67 - Contos Jedi 1
+sw68 - Contos Jedi 2
+sw69 - Contos Jedi 3
+sw70 - Contos Jedi 4
+*****GRAPHICNOVELS*****
+gnI - Marvel Origens - A Década de 1960
+gnII - Thor - Contos de Asgard
+gnIII - Doutor Estranho - Uma Terra Sem Nome, Um Tempo Sem Fim
+gnIV - Quarteto Fantástico - A Vinda de Galactus
+gnV - Quarteto Fantástico - O Dia do Juízo Final
+gnVI - O Espetacular Homem-Aranha - Homem-Aranha Nunca Mais
+gnVII - O Invencível Homem de Ferro - Tragédia e Triunfo
+gnVIII - Nick Fury - Agente da S.H.I.E.L.D. - Parte 1
+gnIX - Nick Fury - Agente da S.H.I.E.L.D. - Parte 2
+gnX - Os Inumanos
+gnXI - O Incrível Hulk - O Monstro Está Solto
+gnXII - Vingadores - O Nascimento de Ultron
+gnXIII - O Poderoso Thor - Ragnarok
+gnXIV - Surfista Prateado - Origens
+gnXV - X-Men - Crepúsculo dos Mutantes
+gnXVI - X-Men - À Sombra de Sauron
+gnXVII - O Invencível Homem de Ferro - O Início do Fim
+gnXVIII - Marvel Origens - A Década de 1970
+gnXIX - O Espetacular Homem-Aranha - A Morte dos Stacys
+gnXX - Vingadores - A Guerra Kree-Skrull
+gnXXI - Marvel Horror
+gnXXII - Hulk - No Coração do Átomo
+gnXXIII - Os Defensores - O Dia dos Defensores
+gnXXIV - Vida e Morte do Capitão Marvel - Parte 1
+gnXXV - Vida e Morte do Capitão Marvel - Parte 2
+gnXXVI - Doutor Estranho - Uma Realidade à Parte
+gnXXVII - A Guerra Vingadores-Defensores
+gnXXVIII - Pantera Negra - A Fúria do Pantera
+gnXXIX - Howard, O Pato
+gnXXX - Capitão América e Falcão - O Império Secreto
+gnXXXI - Deathlok - Origem
+gnXXXII - Warlock - Parte 1
+gnXXXIII - Warlock - Parte 2
+gnXXXIV - Os Fabulosos X-Men - Segunda Gênese
+gnXXXV - Punho de Ferro - A Busca por Collen Wing
+gnXXXVI - Capitão América e Falcão - A Bomba Enlouquecedora
+gnXXXVII - O Que Aconteceria Se... ?
+gnXXXVIII - Homem-Aranha - Grandes Encontros Marvel
+gnXXXIX - Os Vingadores - A Saga de Korvac
+gnXL - Demolidor - Marcado para Morrer
+gn01 - Homem de Ferro - O Demônio na Garrafa
+gn02 - Os Fabulosos X-Men - A Saga da Fênix Negra
+gn03 - Capitão Britânia - O Mundo Distorcido
+gn04 - Eu, Wolverine
+gn05 - Thor - O Último Viking
+gn06 - Guerras Secretas - Parte 1
+gn07 - Guerras Secretas - Parte 2
+gn08 - Demolidor - A Queda de Murdock
+gn09 - O Espetacular Homem-Aranha - A Última Caçada de Kraven
+gn10 - O Espetacular Homem-Aranha - O Nascimento de Venom
+gn11 - O Incrível Hulk - Gritos Silenciosos
+gn12 - Wolverine - Arma X
+gn13 - Marvels
+gn14 - Vingadores Eternamente - Parte 1
+gn15 - Vingadores Eternamente - Parte 2
+gn16 - O Poderoso Thor - Em Busca dos Deuses
+gn17 - Demolidor - Diabo da Guarda
+gn18 - Justiceiro - Bem-Vindo de Volta Frank - Parte 1
+gn19 - Justiceiro - Bem-Vindo de Volta Frank - Parte 2
+gn20 - Ultimate Homem-Aranha - Poder e Responsabilidade
+gn21 - O Espetacular Homem-Aranha - De Volta ao Lar
+gn22 - O Espetacular Homem-Aranha - Revelações & Até que as Estrelas Esfriem
+gn23 - Novos X-Men - E de Extinção
+gn24 - Novos X-Men - Imperial
+gn25 - Homem-Aranha - Azul
+gn26 - Wolverine - Origem
+gn27 - Capitão América - O Novo Pacto
+gn28 - Os Supremos - Super-Humanos
+gn29 - Os Supremos - Segurança Nacional
+gn30 - Quarteto Fantástico - Inconcebível
+gn31 - Quarteto Fantástico - Ações Autoritárias
+gn32 - 1602
+gn33 - Guerra Secreta
+gn34 - Vingadores - A Queda
+gn35 - Mulher-Hulk - Mulher Solteira Procura
+gn36 - Surpreendentes X-Men - Superdotados
+gn37 - Os Surpreendentes X-Men - Perigoso
+gn38 - Pantera Negra - Quem é o Pantera Negra?
+gn39 - Motoqueiro Fantasma - Estrada para a Danação
+gn40 - Dinastia M
+gn41 - Dinastia M - O Herdeiro
+gn42 - Os Novos Vingadores - Motim
+gn43 - Homem de Ferro - Extremis
+gn44 - Capitão América - Tempo Esgotado
+gn45 - Capitão América - Soldado Invernal
+gn46 - O Incrível Hulk - Planeta Hulk - Parte 1
+gn47 - O Incrível Hulk - Planeta Hulk - Parte 2
+gn48 - Quarteto Fantástico - O Fim
+gn49 - Zumbis Marvel
+gn50 - Guerra Civil
+gn51 - Capitão América - Morre uma Lenda
+gn52 - Thor - O Renascer dos Deuses
+gn53 - Doutor Estranho - O Juramento
+gn54 - Eternos
+gn55 - Capitão América - A Escolha
+gn56 - Hulk - Contra o Mundo
+gn57 - Thunderbolts - Fé em Monstros
+gn58 - Wolverine - O Velho Logan
+gn59 - Invasão Secreta
+gn60 - O Cerco
+gn61 - Vingadores Primordiais
+gn62 - Vingadores Secretos - Missão Marte
+gn63 - Deadpool - A Guerra de Wade Wilson
+gn64 - O Imperativo Thanos
+gn65 - Terra das Sombras
+gn66 - Vingadores - A Cruzada das Crianças
+gn67 - Hulk - Terra Arrasada
+gn68 - Venom
+gn69 - Homem-Aranha - A Morte do Homem-Aranha
+gn70 - A Essência do Medo - Parte 1
+gn71 - A Essência do Medo - Parte 2
+gn72 - X-Men - O Cisma
+gn73 - Demolidor - Som e Fúria
+gn74 - Ultimate Comics Homem-Aranha - Quem é Miles Morales?
+gn75 - O Surpreendente Thor
+gn76 - Sem Medo
+gn77 - Sem Medo - Parte 2
+gn78 - Aniquiladores
+gn79 - O Incrível Hulk - Abissal
+gn80 - Wolverine & Os X-Men - Regênese
+gn81 - Os Defensores - O Destruidor de Mundos
+gn82 - Avante, Vingadores!
+*****DC*****
+dc01 - Batman - Silêncio - Parte 1
+dc02 - Batman - Silêncio - Parte 2
+dc03 - Superman - O Último Filho
+dc04 - Liga da Justiça - Torre de Babel
+dc05 - Superman/Batman - Inimigos Públicos
+dc06 - Batman - O Longo Dia das Bruxas - Parte 1
+dc07 - Batman - O Longo Dia das Bruxas - Parte 2
+dc08 - Superman - O Homem de Aço
+dc09 - LJA - Ano Um - Parte 1
+dc10 - LJA - Ano Um - Parte 2
+dc11 - Batman - Morte em Família
+dc12 - Lex Luthor - O Homem de Aço
+dc13 - LJA - Terra 2
+dc14 - Superman/Batman - Supergirl
+dc15 - Batman - O Nascimento do Demônio - Parte 1
+dc16 - Batman - O Nascimento do Demônio - Parte 2
+dc17 - Mulher Maravilha - O Círculo
+dc18 - Superman - Brainiac
+dc19 - LJA - O Prego
+dc20 - Novos Titãs - O Contrato de Judas
+dc21 - Mulher-Maravilha, Batman e Superman - Trindade
+dc22 - Mulher-Gato - Um Crime Perfeito
+dc23 - Mulher-Gato - A Trilha da Mulher-Gato
+dc24 - Superman - A Morte do Superman
+dc25 - Lobo - Sem Limites
+dc26 - Mulher-Maravilha - Paraíso Perdido
+dc27 - LJA - Justiça - Parte 1
+dc28 - LJA - Justiça - Parte 2
+dc29 - Superman e Batman - Poder Absoluto
+dc30 - Lanterna Verde - Crepúsculo Esmeralda/Novo Amanhecer
+dc31 - Arlequina - Prelúdios e Trocadalhos
+dc32 - Arqueiro Verde - O Espírito da Flecha - Parte 1
+dc33 - Arqueiro Verde - O Espírito da Flecha - Parte 2
+dc34 - Batman - O Homem que ri & Asilo Arkham
+dc35 - DC - A Nova Fronteira - Parte 1
+dc36 - DC - A Nova Fronteira - Parte 2
+dc37 - Superman e Batman - Vingança Máxima!
+dc38 - Mulher Maravilha - Deuses e Mortais
+dc39 - Batman - Estranhas Aparições
+dc40 - Superman & Batman - Inimigos Entre Nós
+dc41 - Arqueiro Verde - Ano Um
+dc42 - Batman - Sina Macabra
+dc43 - Batman - Descanse em Paz
+dc44 - Flash - Nascido para Correr
+dc45 - Robin - Ano Um
+dc46 - Superman/Batman - Tormento
+dc47 - Mulher-Maravilha - Os Olhos da Górgona
+dc48 - Batgirl - Ano Um
+dc49 - Justiça Jovem - Uma Nova Liga
+dc50 - Flash - O Retorno de Barry Allen
+dc51 - Batman - Amantes e Loucos
+dc52 - Arqueiro Verde - Os Caçadores
+dc53 - O Bravo e o Audaz - Os Donos da Sorte
+dc54 - Homem-Borracha - Uma Caçada Muito Louca
+dc55 - LJA - Nova Ordem Mundial
+dc56 - Flash - Guerra de Gangues
+dc57 - Superman - O Legado das Estrelas - Parte 1
+dc58 - Superman - O Legado das Estrelas - Parte 2
+dc59 - Arqueiro Verde e Lanterna Verde - Na Estrada
+dc60 - Flash - Ponto de Ignição
+dc61 - Batman/Caçadora - Sede de Sangue
+dc62 - LJA - Desígnios Divinos
+dc63 - Superman - O que Aconteceu ao Homem de Aço?
+dc64 - LJA/ SJA - Vícios e Virtudes
+dc65 - 65
+dc66 - 66
+dc67 - 67
+dc68 - 68
+dc69 - 69
+dc70 - 70
+dc71 - 71
+dc72 - 72
+dc73 - 73
+dc74 - 74
+dc75 - 75
+dc76 - 76
+dc77 - 77
+dc78 - 78
+dc79 - 79
+dc80 - 80
+dc81 - 81
+dc82 - 82
+dc83 - 83
+dc84 - 84
+dc85 - 85
+dc86 - 86
+dc87 - 87
+dc88 - 88
+dc89 - 89
+dc90 - 90
+dc91 - 91
+dc92 - 92
+dc93 - 93
+dc94 - 94
+dc95 - 95
+dc96 - 96
+dc97 - 97
+dc98 - 98
+dc99 - 99
+dc100 - 100
+*****HEROIS*****
+he01 - Os Vingadores
+he02 - Homem-Aranha
+he03 - Wolverine
+he04 - Hulk
+he05 - Homem de Ferro
+he06 - Viúva-Negra
+he07 - Capitão América
+he08 - Tocha Humana
+he09 - Gavião Arqueiro
+he10 - X-Men
+he11 - Luke Cage
+he12 - Os Três Guerreiros
+he13 - Ciclope
+he14 - Capitão Marvel
+he15 - Os Fabulosos X-Men
+he16 - A Mulher Invisível
+he17 - Visão
+he18 - Guardiões da Galáxia
+he19 - Falcão
+he20 - Namor - O Príncipe Submarino
+he21 - Valquíria
+he22 - Professor X
+he23 - Defensores
+he24 - Justiceiro
+he25 - Nick Fury
+he26 - Pantera Negra
+he27 - Madrox - O Homem Múltiplo
+he28 - Harpia
+he29 - Demolidor
+he30 - Quarteto Fantástico
+he31 - Doutor Estranho
+he32 - O Coisa
+he33 - Destrutor
+he34 - Feiticeira Escarlate
+he35 - O Anjo
+he36 - Punho de Ferro
+he37 - Mercúrio
+he38 - Blade
+he39 - Inumanos
+he40 - Fera
+he41 - Thor
+he42 - Shang-Chi
+he43 - Polaris
+he44 - Warlock
+he45 - Hank Pym
+he46 - Hércules
+he47 - Homem de Gelo
+he48 - Vespa
+he49 - Motoqueiro Fantasma
+he50 - Magnum
+he51 - Surfista Prateado
+he52 - Banshee
+he53 - Cavaleiro Negro
+he54 - Tempestade
+he55 - Tocha Humana (Johnny Storm)
+he56 - Colossus
+he57 - Senhor Fantástico
+he58 - Noturno
+he59 - Jean Grey
+he60 - Miss Marvel
+he61 - Deadpool
+he62 - Soldado Invernal
+he63 - Elektra
+he64 - Jessica Jones
+he65 - Máquina de Combate
+he66 - Geração X
+he67 - Os Invasores
+he68 - Hulk Vermelho
+he69 - Garota-Aranha
+he70 - Fugitivos
+he71 - Rocky Racum
+he72 - Capitão Bretanha
+he73 - Os Vingadores da Costa Oeste
+he74 - O Sentinela
+he75 - Academia de Vingadores
+he76 - Nova
+he77 - Vingadores Centrais
+he78 - Mulher-Aranha
+he79 - Jovens Vingadores
+he80 - Mulher-Hulk
+he81 - Vingadores de Estimação
+he82 - Manto & Adaga
+he83 - 83
+he84 - 84
+he85 - 85
+he86 - 86
+he87 - 87
+he88 - 88
+he89 - 89
+he90 - 90
+he91 - 91
+he92 - 92
+he93 - 93
+he94 - 94
+he95 - 95
+he96 - 96
+he97 - 97
+he98 - 98
+he99 - 99
+he100 - 100
+*****HOMEMARANHA*****
+ha01 - Caído entre os Mortos
+ha02 - Percepções
+ha03 - A Saga Original do Clone
+ha04 - O Mal no Coração dos Homens
+ha05 - Feroz
+ha06 - Heroi da Resistência
+ha07 - Tormento
+ha08 - A Morte de Jean DeWolff
+ha09 - Com Grandes Poderes...
+ha10 - O Fator Mutante
+ha11 - Potestade
+ha12 - Uma Teia Embaraçada
+ha13 - A Vingança do Sexteto Sinistro
+ha14 - O Casamento
+ha15 - Homem-Aranha Noir
+ha16 - Origens
+ha17 - A Saga do Traje Alienígena
+ha18 - O Nascimento de Venom
+ha19 - O Outro - Evolução ou Morte - Parte 1
+ha20 - O Outro - Evolução ou Morte - Parte 2
+ha21 - A Morte da Tia May
+ha22 - Caça ao Aranha
+ha23 - A Volta do Uniforme Negro
+ha24 - O Rapto de Mary Jane
+ha25 - Um Dia a Mais
+ha26 - Nada Pode Deter o Fanático
+ha27 - Um Novo dia
+ha28 - Inferno
+ha29 - 29
+ha30 - 30
+ha31 - 31
+ha32 - 32
+ha33 - 33
+ha34 - 34
+ha35 - 35
+ha36 - 36
+ha37 - 37
+ha38 - 38
+ha39 - 39
+ha40 - 40
+ha41 - 41
+ha42 - 42
+ha43 - 43
+ha44 - 44
+ha45 - 45
+ha46 - 46
+ha47 - 47
+ha48 - 48
+ha49 - 49
+ha50 - 50
+ha51 - 51
+ha52 - 52
+ha53 - 53
+ha54 - 54
+ha55 - 55
+ha56 - 56
+ha57 - 57
+ha58 - 58
+ha59 - 59
+ha60 - 60
+*****BATMAN*****
+ba01 - Cataclismo
+ba02 - Terra de Ninguém - Parte 1
+ba03 - Terra de Ninguém - Parte 2
+ba04 - Terra de Ninguém - Parte 3
+ba05 - Terra de Ninguém - Parte 4
+ba06 - Terra de Ninguém - Parte 5
+*****VAGABOND*****
+ - Vagabond 1
+ - Vagabond 2
+ - Vagabond 3
+ - Vagabond 4
+ - Vagabond 5
+ - Vagabond 6
+ - Vagabond 7
+ - Vagabond 8
+ - Vagabond 9
+ - Vagabond 10
+ - Vagabond 11
+ - Vagabond 12
+ - Vagabond 13
+ - Vagabond 14
+ - Vagabond 15
+ - Vagabond 16
+ - Vagabond 17
+ - Vagabond 18
+ - Vagabond 19
+ - Vagabond 20
+ - Vagabond 21
+ - Vagabond 22
+ - Vagabond 23
+ - Vagabond 24
+ - Vagabond 25
+ - Vagabond 26
+ - Vagabond 27
+ - Vagabond 28
+ - Vagabond 29
+ - Vagabond 30
+*****LOBOSOLITARIO*****
+ - Lobo Solitário 1
+ - Lobo Solitário 2
+ - Lobo Solitário 3
+ - Lobo Solitário 4
+ - Lobo Solitário 5
+ - Lobo Solitário 6
+ - Lobo Solitário 7
+ - Lobo Solitário 8
+ - Lobo Solitário 9
+ - Lobo Solitário 10
+*****NOVOLOBO*****
+ - Novo Lobo Solitário 1
+ - Novo Lobo Solitário 2
+ - Novo Lobo Solitário 3
+ - Novo Lobo Solitário 4
+ - Novo Lobo Solitário 5
+ - Novo Lobo Solitário 6
+ - Novo Lobo Solitário 7
+ - Novo Lobo Solitário 8
+ - Novo Lobo Solitário 9
+ - Novo Lobo Solitário 10
+*****VALIANT*****
+ - Divinity
+ - Faith
+ - Ninjak
+*****PANINI*****
+ - Deadpool - Antologia
+ - Homem-Aranha - Antologia
+ - Deadpool Massacra o Universo Marvel
+ - Deadpool - Meus Queridos Presidentes
+ - Deadpool - Caçador de Almas
+ - Deadpool - Três Homens em Conflito
+ - Deadpool - S.H.I.E.L.D.
+ - Homem-Aranha - Negócios de Família
+ - Homem-Aranha Superior - Sem Saída
+ - Homem-Aranha Superior - Mente Conturbada
+ - Homem-Aranha Superior - Meu Pior Inimigo
+ - Homem-Aranha Superior - Mal Necessário
+ - Homem-Aranha Superior - Venom Superior
+ - Mulher-Maravilha - Sangue
+ - Mulher-Maravilha - Direito de Nacença
+ - Mulher-Maravilha - Força
+ - Mulher-Maravilha - Guerra
+ - Lendas do Universo DC - Mulher-Maravilha - 1
+ - Lendas do Universo DC - Mulher-Maravilha - 2
+ - Lendas do Universo DC - Mulher-Maravilha - 3
+ - Lendas do Universo DC - Mulher-Maravilha - 4
+ - Star Wars - Qui Gon Jinn - O Lado Sombrio
+ - Star Wars - Boba Fett - Boba Fett está Morto
+ - Star Wars - Boba Fett - Inimigo do Império
+ - Star Wars - Boba Fett - Laços de Sangue
+ - Star Wars - Episódio V - O Império Contra-Ataca
+ - Star Wars Legends - Herdeiro do Império
+ - Star Wars Legends - A Ascensão da Força Sombria
+ - Star Wars Legends - O Último Comando
+ - Star Wars Legends - À Sombra de Yavin
+ - Star Wars Legends - A Guerra nas Estrelas
+ - Future Quest 1
+ - Future Quest 2
+ - Flintstones 1
+ - Flintstones 2
+ - Scooby Apocalipse 1
+ - Scooby Apocalipse 2
+ - Samurai 7 #1
+ - Samurai 7 #2
+*****CONAN*****
+co01 - A Cidadela dos Condenados
+co02 - A Libertação de Thugra Khotan
+co03 - A Maldição da Lua Crescente
+co04 - O Conquistador
+*****THEWALKINGDEAD*****
+twd01 - Dias Passados
+twd02 - Caminhos Percorridos
+twd03 - Segurança Atrás das Grades
+twd04 - Os Mais Íntimos Desejos
+twd19 - Marcha para Guerra
+twd20 - Guerra Total - Parte 1
+twd21 - Guerra Total - Parte 2
+twd22 - Um Novo Começo
+twd23 - 23
+*****EAGLE-BATMAN*****
+bt01 - Batman e Filho
+bt02 - Faces da Morte
+bt03 - Batman - Detetive
